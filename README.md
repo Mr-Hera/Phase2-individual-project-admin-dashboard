@@ -1,3 +1,6 @@
+# Project Title - Admin-Dashboard
+# Available with default apps and chart features capable of sorting through organizational data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
