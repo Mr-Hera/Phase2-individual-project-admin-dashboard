@@ -20,7 +20,7 @@ export const ContextProvider = ({children}) => {
     
     
     const setColor = (color) => {
-        setCurrentColor(e.target.value);
+        setCurrentColor(color);
         localStorage.setItem('colorMode', color);
     }
 
